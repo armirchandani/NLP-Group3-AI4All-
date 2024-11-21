@@ -12,3 +12,5 @@ mock_data = {
 mock_df = pd.DataFrame(mock_data)
 
 mock_df.info(), mock_df.head()
+
+blob/master/streamlit_app.py
